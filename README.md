@@ -3,7 +3,7 @@
 ```
 Playing with fluent assertions
 ```
-> In this demo, i m demoing [fluent assertions](https://fluentassertions.com/) library
+> In this demo, i m playing with [fluent assertions](https://fluentassertions.com/) library
 >
 > The solution consists of one unit test project with multiple examples :
 > - `Example1` : unit testing of numbers/decimals, etc.
