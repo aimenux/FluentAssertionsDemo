@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace FluentAssertionDemo.Example5
 {
-    public class FluentAssertionTests
+    public class FluentAssertionsTests
     {
         [Test]
         public void Should_Id_Property_Be_Required()

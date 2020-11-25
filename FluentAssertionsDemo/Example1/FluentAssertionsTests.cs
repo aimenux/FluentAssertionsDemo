@@ -3,7 +3,7 @@ using NUnit.Framework;
 
 namespace FluentAssertionDemo.Example1
 {
-    public class FluentAssertionTests
+    public class FluentAssertionsTests
     {
         [TestCase(3, 36)]
         public void Should_Get_Valid_Months_For_Input_Years(int inputYears, int expectedMonths)

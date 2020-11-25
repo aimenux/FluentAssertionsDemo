@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace FluentAssertionDemo.Example4
 {
-    public class FluentAssertionTests
+    public class FluentAssertionsTests
     {
         [Test]
         public void Should_Products_Not_Be_Null_Or_Empty()

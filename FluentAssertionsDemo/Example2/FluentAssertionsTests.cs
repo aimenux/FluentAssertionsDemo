@@ -5,7 +5,7 @@ using System;
 
 namespace FluentAssertionDemo.Example2
 {
-    public class FluentAssertionTests
+    public class FluentAssertionsTests
     {
         [Test]
         public void Should_Get_Valid_Now_DateTime()
